@@ -1,0 +1,79 @@
+.container{ 
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background: linear-gradient(to bottom right, rgb(235, 233, 227), rgb(158, 144, 107));
+
+}
+.wrapper{
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    
+    
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 50px;
+}
+
+
+.container img {
+    width:300px;
+    height: 30em;
+    border-radius: 100px;
+    
+    
+}
+ .description {
+    font-size: 18px;
+    font-weight: 400;
+    color: #000000;
+    margin: 0 0 10px 0;
+    text-align: justify;
+    height: 130px;/*высота текста в карточке*/
+    text-transform: lowercase;
+    
+ }
+  .overview{
+    font-size: 20px;
+    font-weight: 700;
+    color: #3a4b41;
+    text-transform: uppercase;
+    
+    
+    
+    
+  
+ }
+.titleProduct{
+    text-align: center;
+    
+ }
+ .price {
+    font-size: 20px;
+    color: #000000;
+    display: block;
+    margin-bottom: 12px;
+    text-align: center;
+    
+ }
+ .avability {
+    
+    padding: 0 30px;
+    background: #a89664;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-size: px;
+    line-height: 38px;
+    transition: .2s ease-in;
+    border-radius: 10px;
+    
+ 
+ }
+ .avability:hover {
+    background: #84887a;
+ }
+ 
+ 

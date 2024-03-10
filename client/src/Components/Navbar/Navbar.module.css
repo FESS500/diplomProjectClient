@@ -1,0 +1,96 @@
+.custom{
+  background-image: url(../Images/fon.jpg);
+}
+  .logo{
+    width: 120px;
+    left: 150px;
+    top: 70px;
+}
+
+.sweet{
+  padding-left: 10px;
+  font-size: 30px;
+}
+
+.city{
+  padding-left: 400px;
+  font-size: 20px;
+}
+.phone{
+  padding-left: 300px;
+  font-size: 20px;
+  
+}
+.imgColor{
+ color: black;
+}
+.menu{
+  font-size: 20px;
+}
+
+
+
+.sweetBox{
+  font-size: 35px;
+  font-weight: 700;
+  padding-left: 300px;
+  
+}
+
+.place{
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 600;
+  padding-left: 300px;
+}
+
+.phone{
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 600;
+  padding-left: 210px;
+  
+}
+.catalog{
+  width: 100%;
+  
+  font-size: 48px;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(107, 107, 107);
+  text-transform: uppercase;
+  
+}
+
+
+.MainHeader{/*Основной контент, шрифты и кнопки*/
+  color: rgb(107, 107, 107);
+  display: flex;
+  flex-direction: column;
+}
+
+.textCake{
+  width: 700px;
+  height: 180px;
+  padding-left: 50px;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px; /* 125% */
+  letter-spacing: -1px;
+  border-radius: 20px;
+
+}
+
+.textCold{
+  width: 550px;
+  height: 69px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 143%;
+  padding-left: 50px;
+  border-radius: 10px;
+}
+
+
