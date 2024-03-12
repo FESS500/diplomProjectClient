@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 3000
 
 # Команда для запуска вашего приложения
-CMD ["node", "app.js"]
+CMD ["npm", "start"]
